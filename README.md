@@ -65,3 +65,19 @@ https://www.saucedemo.com/
 
 ## Author
 QA Engineer Internship Assignment
+
+## Manual QA Documentation
+
+- [Test Plan](MANUAL%20TEST%20PLAN%20%E2%80%93%20SAUCEDEMO.pdf)
+- [Bug Reports](./)
+
+## Screenshot Evidence
+
+See the `Screenshots/` folder for bug reproduction screenshots.
+
+## Video Demonstrations
+
+- Video 1: Test Plan & Automation Overview
+- Video 2: Manual Bug Discovery Demo
+
+Loom Playlist: https://www.loom.com/playlists/9327ba9c-33d9-49a8-9dcb-35ae0008e24b/view?v=1172da565b0f48f8b8fcb655ca12b761
